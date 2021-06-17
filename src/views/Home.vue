@@ -37,6 +37,8 @@ export default {
   },
   methods: {
     viewProduct(product) {
+
+
       this.product = product
       console.log(this.product);
     }
